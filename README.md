@@ -17,19 +17,19 @@ Before running the application, make sure you have the following prerequisites i
 git clone https://github.com/your-username/invoice_extraction_using_gemini_streamlit_app.git
 ```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
 cd invoice_extraction_using_gemini_streamlit_app
 ```
 
-Create a virtual environment (recommended):
+3. Create a virtual environment (recommended):
 
 ```bash
 python -m venv venv
 ```
 
-Activate the virtual environment:
+4. Activate the virtual environment:
 
 On Windows:
 
@@ -37,12 +37,12 @@ On Windows:
 venv\Scripts\activate
 ```
 
-Install the required dependencies:
+5. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
-Usage
+### Usage:
 
 Run the Streamlit application:
 
