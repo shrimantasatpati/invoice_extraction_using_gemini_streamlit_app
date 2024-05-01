@@ -29,9 +29,7 @@ cd invoice_extraction_using_gemini_streamlit_app
 python -m venv venv
 ```
 
-4. Activate the virtual environment:
-
-On Windows:
+4. Activate the virtual environment (on windows):
 
 ```bash
 venv\Scripts\activate
