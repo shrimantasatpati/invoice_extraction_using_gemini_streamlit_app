@@ -4,7 +4,8 @@ from PIL import Image
 import streamlit as st
 import google.generativeai as genai
 
-# genai.configure(api_key="<api-key>")
+# Replace with your google gemini pro api key
+genai.configure(api_key="<api-key>")
 
 # initialize gemini pro model
 def initialize_model(model_name="gemini-pro-vision"):
