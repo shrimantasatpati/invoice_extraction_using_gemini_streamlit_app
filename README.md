@@ -50,11 +50,11 @@ Run the Streamlit application:
 streamlit run app.py
 ```
 
-The application will open in your default web browser.
-Upload an invoice image by clicking the "Choose an image" button.
-Enter a prompt in the text input field related to the information you want to extract from the invoice.
-Click the "Submit" button to generate the response based on the uploaded image and the provided prompt.
-The generated response will be displayed in the application.
+- The application will open in your default web browser.
+- Upload an invoice image by clicking the "Choose an image" button.
+- Enter a prompt in the text input field related to the information you want to extract from the invoice.
+- Click the "Submit" button to generate the response based on the uploaded image and the provided prompt.
+- The generated response will be displayed in the application.
 
 ### Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
